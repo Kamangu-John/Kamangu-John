@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm John
 
-<!--
-**Kamangu-John/Kamangu-John** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning computer progamming under Tu-Code Academy.
+- I'm interested in web development.
+- I'm looking to collaborate on "beginner-friendly open source projects.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- HTML/CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Mwananchi Zone (http://localhost:5173/) — Mwananchi Zone is a site based on government affairs, where major issues on Kenyan leadership are explained in an easy to understand way.
+
+## How to Reach Me
+- Email: kamanguj758@gmail.com
+- Call: 0142455885
+
+
